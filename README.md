@@ -25,11 +25,11 @@ DerainNeRF reconstruct the clear 3D scene implicitly from multi-view images degr
 
 
 ## Image Waterdrop Removal Result
-<img src="https://github.com/yunhaoli2020/DerainNeRF/blob/main/doc/fig5_github.jpg" width="95%">
+<img src="https://github.com/yunhaoli2020/DerainNeRF/blob/main/doc/fig5_github.jpg" width="99%">
 
 
 ## Method overview
-
+<img src="https://github.com/yunhaoli2020/DerainNeRF/blob/main/doc/method_github.jpg" width="99%">
 
 Our method exploits a pre-trained attention network to predict the location of waterdrops and then train a Neural Radiance Fields (NeRF) to recover the 3D scene implicitly.
 
