@@ -13,7 +13,7 @@
 **[Yunhao Li](https://yunhaoli2020.github.io/), Jing Wu, [Lingzhe Zhao](https://github.com/LingzheZhao) and [Peidong Liu](https://ethliup.github.io/) [ICRA 2024]**
 
 
-This is a simplified implementation of the paper DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal (ICRA 2024). Authors:
+This is a simplified implementation of the paper DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal (ICRA 2024). 
 DerainNeRF reconstruct the clear 3D scene implicitly from multi-view images degraded by adhesive waterdrops.
 
 ## ✨News
