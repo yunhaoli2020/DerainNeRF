@@ -25,7 +25,7 @@ DerainNeRF reconstruct the clear 3D scene implicitly from multi-view images degr
 
 
 ## Image Waterdrop Removal Result
-
+<img src="https://github.com/yunhaoli2020/DerainNeRF/blob/main/doc/fig5_github.jpg" width="95%">
 
 
 ## Method overview
