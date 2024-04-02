@@ -2,6 +2,8 @@
 
 **[Paper Link](https://arxiv.org/abs/2403.20013)**
 
+<div><video autoplay loop controls src="https://github.com/yunhaoli2020/DerainNeRF/blob/main/doc/img0823_4_orig_spiral_200000_rgb.mp4" muted="true"></video></div>
+
 **[Yunhao Li](https://yunhaoli2020.github.io/), Jing Wu, [Lingzhe Zhao](https://github.com/LingzheZhao) and [Peidong Liu](https://ethliup.github.io/) [ICRA 2024]**
 
 
