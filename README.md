@@ -1,17 +1,7 @@
 # DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal
 
 **[Paper Link](https://arxiv.org/abs/2403.20013)**
-
-
-https://github.com/yunhaoli2020/DerainNeRF/assets/54757324/424bbce4-9043-4c60-837a-9a6fb0333127 
-
-https://github.com/yunhaoli2020/DerainNeRF/assets/54757324/095d18a3-7b0f-4f3b-a374-296f488bf0a6
-
-
-
-
-
-
+<img src="https://github.com/yunhaoli2020/DerainNeRF/blob/main/doc/img0823_4_orig_spiral_200000_rgb-ezgif.com-video-to-gif-converter.gif" width="30%"> <img src="https://github.com/yunhaoli2020/DerainNeRF/blob/main/doc/img0823_4_mask_spiral_200000_rgb-ezgif.com-video-to-gif-converter.gif" width="30%">
 **[Yunhao Li](https://yunhaoli2020.github.io/), Jing Wu, [Lingzhe Zhao](https://github.com/LingzheZhao) and [Peidong Liu](https://ethliup.github.io/) [ICRA 2024]**
 
 
