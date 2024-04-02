@@ -21,7 +21,7 @@ DerainNeRF reconstruct the clear 3D scene implicitly from multi-view images degr
 
 
 ## Novel View Synthesis
-<img src="https://github.com/yunhaoli2020/DerainNeRF/blob/main/doc/tanabata_mask_spiral_200000_rgb-ezgif.com-video-to-gif-converter.gif" width="30%"> <img src="https://github.com/yunhaoli2020/DerainNeRF/blob/main/doc/factory_mask_spiral_200000_rgb-ezgif.com-video-to-gif-converter.gif" width="30%"> <img src="https://github.com/yunhaoli2020/DerainNeRF/blob/main/doc/church_mask_spiral_200000_rgb-ezgif.com-video-to-gif-converter.gif" width="30%">
+<img src="https://github.com/yunhaoli2020/DerainNeRF/blob/main/doc/tanabata_mask_spiral_200000_rgb-ezgif.com-video-to-gif-converter.gif" width="32%"> <img src="https://github.com/yunhaoli2020/DerainNeRF/blob/main/doc/factory_mask_spiral_200000_rgb-ezgif.com-video-to-gif-converter.gif" width="32%"> <img src="https://github.com/yunhaoli2020/DerainNeRF/blob/main/doc/church_mask_spiral_200000_rgb-ezgif.com-video-to-gif-converter.gif" width="32%">
 
 
 ## Image Waterdrop Removal Result
