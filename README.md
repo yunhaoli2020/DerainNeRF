@@ -5,6 +5,12 @@
 
 <img src="https://github.com/yunhaoli2020/DerainNeRF/blob/main/doc/img0823_4_orig_spiral_200000_rgb-ezgif.com-video-to-gif-converter.gif" width="45%"> <img src="https://github.com/yunhaoli2020/DerainNeRF/blob/main/doc/img0823_4_mask_spiral_200000_rgb-ezgif.com-video-to-gif-converter.gif" width="45%">
 
+<div><video autoplay loop controls src="https://github.com/yunhaoli2020/DerainNeRF/assets/54757324/28a9b205-4e01-45c6-9dd0-25d6ac0e5cf7" muted="true"></video></div>
+
+
+
+
+
 
 **[Yunhao Li](https://yunhaoli2020.github.io/), Jing Wu, [Lingzhe Zhao](https://github.com/LingzheZhao) and [Peidong Liu](https://ethliup.github.io/) [ICRA 2024]**
 
