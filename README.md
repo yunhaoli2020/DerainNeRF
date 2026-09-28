@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ### 2. Download datasets
 
-You can download the data [here](https://drive.google.com/file/d/1BZ5s8MSm6cfz4n3asf4_640fSVIweUCE/view?usp=sharing).
+You can download the data [here](https://drive.google.com/file/d/1Owbal_a6xFPJj3aXZFfa95A8J8MVWQm1/view?usp=sharing).
 
 For different scenes (*cozy2room*, *factory* etc.), the folder `images` includes images in original resolution and the folder `images_3` (or `images_4`) includes input images of DerainNeRF. The number indicates the scale factor. For example, `images_3` indicates the 3x downsample when loading the dataset. The file `poses_bounds.npy` contains poses derived from COLMAP. The file `rainMask.npy` contains binary masks which indicates the waterdrops in input images.
 
@@ -62,13 +62,6 @@ python run_derainnerf.py --config configs/tanabata.txt
 After training, you can get clear images, depth maps and novel-view images synthesized from NeRF.
 
 
-### 5. Demo with our pre-trained model
-
-You can test our code and render clear images with the provided weight files. To do this, you should first download the pre-trained models from [here](https://drive.google.com/file/d/1EavSnqkKptJxj-Z7cTq2jl5x9Je0Q5T3/view?usp=sharing), unzip it, then put the weight file under the corresponding logs folder `./logs`, finally run
-
-```
-python run_derainnerf.py --config configs/tanabata.txt
-```
 
 
 ## Your own data
